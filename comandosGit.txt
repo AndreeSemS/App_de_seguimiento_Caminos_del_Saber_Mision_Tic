@@ -48,4 +48,6 @@ git commit -m "comentario cualquiera"
 # Para subir y compartir con todos nuestros cambios realizados a nuestra rama
 git push origin nombre_de_la_rama
 
+#Para hacer merge
+git merge rama que trae
 
