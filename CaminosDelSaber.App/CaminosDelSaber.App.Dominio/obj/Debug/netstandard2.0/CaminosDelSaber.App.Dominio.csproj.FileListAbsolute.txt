@@ -1,9 +1,0 @@
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\bin\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.deps.json
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\bin\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.dll
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\bin\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.pdb
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\obj\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.csprojAssemblyReference.cache
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\obj\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.AssemblyInfoInputs.cache
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\obj\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.AssemblyInfo.cs
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\obj\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.csproj.CoreCompileInputs.cache
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\obj\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.dll
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\obj\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.pdb
