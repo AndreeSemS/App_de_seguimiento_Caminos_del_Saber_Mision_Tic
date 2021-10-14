@@ -1,0 +1,51 @@
+                                Comandos iniciales
+
+# Iniciar un repositorio local, hacerlo en una carpeta nueva y vacía
+git init 
+
+# Clonar para unirse localmente a un repositorio en GitHub
+git clone "url del repo" 
+
+# Enlazar la información del repo de GitHub
+git remote add origin "url del repo"
+
+# Actualizar o sincronizar información local con la remota
+git fetch
+
+# Descargar todos los archivos del repo de GitHub
+git pull origin master --allow-unrelated-histories
+
+                        Comandos para crear y cambiar de ramas
+                        
+# Creación de una rama del árbol
+git branch "nombre_de_la_rama"
+
+# Comando para cambiar de ramas
+gir checkout "nombre_de_la_rama"
+
+# Comando para saber en que rama del árbol estamos ubicados
+git branch
+
+        # Una vez nos aseguremos de estar situados en la rama correcta 
+        
+# Pasamos los archivos existentes en la rama master (tronco) a nuestra rama para trabajar en ella
+git pull origin master
+
+           Comandos comunes (luego de verificar en que rama estamos situados)
+
+# Sincronizar ramas por si hay cambios en la rama principal (tronco)
+git fetch
+
+# Pasar los archivos de la rama principal a la nuestra
+git pull origin master
+
+# Para añadir nuestros cambios al repo local
+git add . (el punto es para guardar todo)
+
+# Añadir comentario/etiqueta de nuestro trabajo realizado y guardarlos en el repo local
+git commit -m "comentario cualquiera"
+
+# Para subir y compartir con todos nuestros cambios realizados a nuestra rama
+git push origin nombre_de_la_rama
+
+
