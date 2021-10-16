@@ -1,9 +1,18 @@
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\bin\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.deps.json
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\bin\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.dll
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\bin\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.pdb
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\obj\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.csprojAssemblyReference.cache
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\obj\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.AssemblyInfoInputs.cache
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\obj\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.AssemblyInfo.cs
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\obj\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.csproj.CoreCompileInputs.cache
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\obj\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.dll
-C:\Caminosdelsaber\CaminosDelSaber.App\CaminosDelSaber.App.Dominio\obj\Debug\netstandard2.0\CaminosDelSaber.App.Dominio.pdb
+C:/Caminosdelsaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/bin/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.deps.json
+C:/Caminosdelsaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/bin/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.dll
+C:/Caminosdelsaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/bin/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.pdb
+C:/Caminosdelsaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.csprojAssemblyReference.cache
+C:/Caminosdelsaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.AssemblyInfoInputs.cache
+C:/Caminosdelsaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.AssemblyInfo.cs
+C:/Caminosdelsaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.csproj.CoreCompileInputs.cache
+C:/Caminosdelsaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.dll
+C:/Caminosdelsaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.pdb
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/bin/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.deps.json
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/bin/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/bin/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.pdb
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.csprojAssemblyReference.cache
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.AssemblyInfoInputs.cache
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.AssemblyInfo.cs
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.csproj.CoreCompileInputs.cache
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.pdb
