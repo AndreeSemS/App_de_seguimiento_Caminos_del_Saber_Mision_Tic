@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/CaminosDelSaber.App.Dominio.csproj": {}
+    "/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/CaminosDelSaber.App.Dominio.csproj": {}
   },
   "projects": {
-    "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/CaminosDelSaber.App.Dominio.csproj": {
+    "/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/CaminosDelSaber.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/CaminosDelSaber.App.Dominio.csproj",
+        "projectUniqueName": "/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/CaminosDelSaber.App.Dominio.csproj",
         "projectName": "CaminosDelSaber.App.Dominio",
-        "projectPath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/CaminosDelSaber.App.Dominio.csproj",
-        "packagesPath": "/home/camilinhi/.nuget/packages/",
-        "outputPath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/",
+        "projectPath": "/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/CaminosDelSaber.App.Dominio.csproj",
+        "packagesPath": "/home/andree/.nuget/packages/",
+        "outputPath": "/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/camilinhi/.nuget/NuGet/NuGet.Config"
+          "/home/andree/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -53,7 +53,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.413/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.414/RuntimeIdentifierGraph.json"
         }
       }
     }

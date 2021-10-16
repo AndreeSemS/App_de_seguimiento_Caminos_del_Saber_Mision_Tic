@@ -5796,19 +5796,19 @@
     ]
   },
   "packageFolders": {
-    "/home/camilinhi/.nuget/packages/": {}
+    "/home/andree/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Consola/CaminosDelSaber.App.Consola.csproj",
+      "projectUniqueName": "/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Consola/CaminosDelSaber.App.Consola.csproj",
       "projectName": "CaminosDelSaber.App.Consola",
-      "projectPath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Consola/CaminosDelSaber.App.Consola.csproj",
-      "packagesPath": "/home/camilinhi/.nuget/packages/",
-      "outputPath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Consola/obj/",
+      "projectPath": "/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Consola/CaminosDelSaber.App.Consola.csproj",
+      "packagesPath": "/home/andree/.nuget/packages/",
+      "outputPath": "/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Consola/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/camilinhi/.nuget/NuGet/NuGet.Config"
+        "/home/andree/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5819,8 +5819,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/CaminosDelSaber.App.Persistencia.csproj": {
-              "projectPath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/CaminosDelSaber.App.Persistencia.csproj"
+            "/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/CaminosDelSaber.App.Persistencia.csproj": {
+              "projectPath": "/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/CaminosDelSaber.App.Persistencia.csproj"
             }
           }
         }
@@ -5856,7 +5856,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.413/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.414/RuntimeIdentifierGraph.json"
       }
     }
   }

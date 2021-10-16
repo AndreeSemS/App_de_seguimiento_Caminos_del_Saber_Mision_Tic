@@ -16,3 +16,12 @@ C:/Caminosdelsaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/net
 /home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.csproj.CoreCompileInputs.cache
 /home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.dll
 /home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.pdb
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/bin/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.deps.json
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/bin/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.dll
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/bin/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.pdb
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.csprojAssemblyReference.cache
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.AssemblyInfoInputs.cache
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.AssemblyInfo.cs
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.csproj.CoreCompileInputs.cache
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.dll
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Dominio/obj/Debug/netstandard2.0/CaminosDelSaber.App.Dominio.pdb

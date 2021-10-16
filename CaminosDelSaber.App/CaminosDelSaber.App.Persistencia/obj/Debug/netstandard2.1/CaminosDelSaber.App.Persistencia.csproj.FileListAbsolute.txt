@@ -10,3 +10,15 @@
 /home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/obj/Debug/netstandard2.1/CaminosDelSaber.App.Persistencia.csproj.CopyComplete
 /home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/obj/Debug/netstandard2.1/CaminosDelSaber.App.Persistencia.dll
 /home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/obj/Debug/netstandard2.1/CaminosDelSaber.App.Persistencia.pdb
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/obj/Debug/netstandard2.1/CaminosDelSaber.App.Persistencia.csprojAssemblyReference.cache
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/obj/Debug/netstandard2.1/CaminosDelSaber.App.Persistencia.AssemblyInfoInputs.cache
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/obj/Debug/netstandard2.1/CaminosDelSaber.App.Persistencia.AssemblyInfo.cs
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/obj/Debug/netstandard2.1/CaminosDelSaber.App.Persistencia.csproj.CoreCompileInputs.cache
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/obj/Debug/netstandard2.1/CaminosDelSaber.App.Persistencia.dll
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/obj/Debug/netstandard2.1/CaminosDelSaber.App.Persistencia.pdb
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/bin/Debug/netstandard2.1/CaminosDelSaber.App.Persistencia.deps.json
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/bin/Debug/netstandard2.1/CaminosDelSaber.App.Persistencia.dll
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/bin/Debug/netstandard2.1/CaminosDelSaber.App.Persistencia.pdb
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/bin/Debug/netstandard2.1/CaminosDelSaber.App.Dominio.dll
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/bin/Debug/netstandard2.1/CaminosDelSaber.App.Dominio.pdb
+/home/andree/Documentos/TIC/Programación/CaminosDelSaber/CaminosDelSaber.App/CaminosDelSaber.App.Persistencia/obj/Debug/netstandard2.1/CaminosDelSaber.App.Persistencia.csproj.CopyComplete

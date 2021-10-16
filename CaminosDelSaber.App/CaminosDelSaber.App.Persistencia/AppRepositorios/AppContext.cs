@@ -26,7 +26,7 @@ namespace CaminosDelSaber.App.Persistencia{
             modelBuilder.Entity<Acudiente>()
                 .HasOne(a => a.Estudiante)
                 .WithOne(e => e.Acudiente)
-                .HasForeignKey<EIstudiante>(e => e.Acudiented);
+                .HasForeignKey<Estudiante>(e => e.AcudienteId);
 
             modelBuilder.Entity<Tutor>()
                 .HasOne(t => t.Estudiante)
